@@ -1,0 +1,12 @@
+.navbar {
+   height: 100px;
+   font-size: larger;
+}
+.logo img {
+    height: 50px;
+    width: 50px;
+}
+.navbar a {
+    margin-left: 20px;
+    color: white;
+}
