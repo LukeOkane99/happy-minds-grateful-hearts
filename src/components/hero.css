@@ -8,7 +8,9 @@
 }
 .hero img {
     height: 300px;
+    width: 280px;
     border-radius: 50%;
+    border: solid 4px #1C1475ff;
 }
 .hero h1 {
     text-align: center;

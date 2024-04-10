@@ -1,0 +1,24 @@
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 20px 170px;
+    color: #1C1475ff;
+}
+.footer img {
+    height: 80px;
+    width: 350px;
+    margin-bottom: 20px;
+}
+.footer-menu {
+    display: flex;
+    align-items: center;
+    list-style: none;
+    gap: 60px;
+    font-size: x-large;
+}
+.footer li:hover {
+    cursor: pointer;
+    transform: scale(1.12);
+    transition: 0.5s;
+}
