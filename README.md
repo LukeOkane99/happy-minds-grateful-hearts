@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.facebook.com/happymindsgratefulhearts/">
-    <img alt="Logo" src="../happy-minds-grateful-hearts/src/images/header-logo.png" width="60" />
+    <img alt="Logo" src="https://scontent-man2-1.xx.fbcdn.net/v/t39.30808-6/347593142_641626837998763_6252597731771690622_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=57uo-cg7sbIAb6WpM0z&_nc_ht=scontent-man2-1.xx&oh=00_AfDC40u1omn-zSQGLa26xU9H1jobCRUEPirbAtBl2Om99Q&oe=6620D4AC" width="60" />
   </a>
 </p>
 <h1 align="center">
