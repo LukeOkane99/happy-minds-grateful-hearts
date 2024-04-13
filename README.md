@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.facebook.com/happymindsgratefulhearts/">
-    <img alt="Logo" src="https://www.facebook.com/photo/?fbid=668645521963561&set=a.453225213505594" width="60" />
+    <img alt="Logo" src="../happy-minds-grateful-hearts/src/images/header-logo.png" width="60" />
   </a>
 </p>
 <h1 align="center">
