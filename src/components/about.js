@@ -1,12 +1,15 @@
 import React from "react";
 import "./about.css";
 import about from "../images/about-img.png";
+import whitelogo from "../images/logo-white.png";
 
 const About = () => {
   return (
     <div className="about">
       <div className="about-title">
-        <h1>My Story...</h1>
+        <img src={whitelogo}></img>
+        <h1>My Story</h1>
+        <img src={whitelogo}></img>
       </div>
       <div className="about-sections">
         <div className="about-left">

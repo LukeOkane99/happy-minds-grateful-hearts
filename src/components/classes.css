@@ -5,18 +5,28 @@
     gap: 35px;
     color: white;
 }
+.classes-title {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 150px;
+}
+.classes-title img {
+    height: 80px;
+}
 .classes h1 {
     text-align: center;
     width: 70%;
     font-size: 80px;
     font-weight: 600;
-    margin-top: 150px;
 }
 .classes-imgs {
     display: flexbox;
     margin-bottom: 50px;
 }
-.classes img {
+.classes-imgs img {
     height: 600px;
     width: 600px;
     margin: 50px;
