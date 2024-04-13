@@ -6,11 +6,11 @@ const Hero = () => {
   return (
     <div className="hero">
       <img src={profile} alt="profile image"></img>
-      <h1>I'm Amanda, a certified mindfulness coach.</h1>
-      <p>Are you ready to get started on your journey?</p>
+      <h1>Holistic Practitioner & The Trainee Holistic Psychotherapist</h1>
+      <p>Mindfulness | Meditation | Breathwork</p>
       <div className="hero-action">
-        <div className="hero-connect">Connect with me</div>
-        <div className="hero-get-started">Get Started</div>
+        <div className="hero-connect">Book Now</div>
+        <div className="hero-get-started">Connect With Me</div>
       </div>
     </div>
   );
