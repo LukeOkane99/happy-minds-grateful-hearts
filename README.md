@@ -1,49 +1,22 @@
 <p align="center">
-  <a href="https://www.gatsbyjs.com/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter">
-    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
+  <a href="https://www.facebook.com/happymindsgratefulhearts/">
+    <img alt="Logo" src="https://www.facebook.com/photo/?fbid=668645521963561&set=a.453225213505594" width="60" />
   </a>
 </p>
 <h1 align="center">
-  Gatsby Minimal Starter
+  Happy Minds Grateful Hearts
 </h1>
 
-## 🚀 Quick start
+## A landing page, developed for a local mindfullness coach
 
-1.  **Create a Gatsby site.**
+**Technologies used:**
 
-    Use the Gatsby CLI to create a new site, specifying the minimal starter.
+    This site was created with the use of GatsbyJS, a static website framework, based on ReactJs.
 
-    ```shell
-    # create a new Gatsby site using the minimal starter
-    npm init gatsby
-    ```
+    The majority of the CSS styling was done manually, with some slight use of React-bootstrap.
 
-2.  **Start developing.**
+    The site is hosted on Netlify, and will have integration with the Netlify CMS in the future.
 
-    Navigate into your new site’s directory and start it up.
+**Access the site below:**
 
-    ```shell
-    cd my-gatsby-site/
-    npm run develop
-    ```
-
-3.  **Open the code and start customizing!**
-
-    Your site is now running at http://localhost:8000!
-
-    Edit `src/pages/index.js` to see your site update in real-time!
-
-4.  **Learn more**
-
-    - [Documentation](https://www.gatsbyjs.com/docs/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-    - [Tutorials](https://www.gatsbyjs.com/docs/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-    - [Guides](https://www.gatsbyjs.com/docs/how-to/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-    - [API Reference](https://www.gatsbyjs.com/docs/api-reference/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-    - [Plugin Library](https://www.gatsbyjs.com/plugins?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-    - [Cheat Sheet](https://www.gatsbyjs.com/docs/cheat-sheet/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-## 🚀 Quick start (Netlify)
-
-Deploy this starter with one click on [Netlify](https://app.netlify.com/signup):
-
-[<img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify" />](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-minimal)
+    https://happymindsgratefulhearts.netlify.app/
