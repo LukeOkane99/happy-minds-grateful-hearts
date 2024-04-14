@@ -4,6 +4,11 @@
     flex-direction: column;
     gap: 35px;
     color: white;
+    margin: 20px 170px;
+    background-color: #1C1475ff;
+    border-radius: 30px;
+    border: solid 2px white;
+    margin-bottom: 150px;
 }
 .classes-title {
     position: relative;
@@ -11,7 +16,7 @@
     align-items: center;
     justify-content: center;
     gap: 30px;
-    margin-top: 150px;
+    margin-top: 100px;
 }
 .classes-title img {
     height: 80px;
@@ -24,7 +29,7 @@
 }
 .classes-imgs {
     display: flexbox;
-    margin-bottom: 50px;
+    margin-bottom: 100px;
 }
 .classes-imgs img {
     height: 600px;

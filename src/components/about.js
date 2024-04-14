@@ -18,8 +18,7 @@ const About = () => {
         <div className="about-right">
           <p>
             My name is Amanda Brennan. I am a mother of 10 wonderful children,
-            based out of Northern Ireland. Testing
-            12345457867657657676767657657657657676576587878787878787687687878787878787876876876876878
+            based out of Northern Ireland. Testing 123454578676576
           </p>
         </div>
       </div>

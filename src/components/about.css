@@ -5,6 +5,11 @@
     justify-content: center;
     color: white;
     gap: 80px;
+    margin: 20px 170px;
+    background-color: #1C1475ff;
+    border-radius: 30px;
+    border: solid 2px white;
+    margin-bottom: 150px;
 }
 .about-title {
     position: relative;
@@ -12,7 +17,7 @@
     align-items: center;
     justify-content: center;
     gap: 30px;
-    margin-top: 150px;
+    margin-top: 100px;
 }
 .about-title img {
     height: 80px;
@@ -25,13 +30,13 @@
 .about-sections {
     display: flex;
     gap: 80px;
-    margin: 20px 170px;
+    width: 70%;
+    margin-bottom: 100px;
 }
 .about-sections img {
     height: 400px;
     width: 400px;
-    border-radius: 50%;
-    border: solid 2px white;
+    border-radius: 10px;
 }
 .about-right {
     display: flex;
