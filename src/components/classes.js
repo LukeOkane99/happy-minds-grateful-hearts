@@ -6,7 +6,7 @@ import whitelogo from "../images/logo-white.png";
 
 const Classes = () => {
   return (
-    <div className="classes">
+    <div id="classes" className="classes">
       <div className="classes-title">
         <img src={whitelogo}></img>
         <h1>What I offer</h1>

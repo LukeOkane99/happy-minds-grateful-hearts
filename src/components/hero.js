@@ -4,9 +4,9 @@ import profile from '../images/profile-img.png'
 
 const Hero = () => {
   return (
-    <div className="hero">
+    <div id="home" className="hero">
       <img src={profile} alt="profile image"></img>
-      <h1>Holistic Practitioner & The Trainee Holistic Psychotherapist</h1>
+      <h1>Holistic Practitioner & Trainee Holistic Psychotherapist</h1>
       <p>Mindfulness | Meditation | Breathwork</p>
       <div className="hero-action">
         <div className="hero-connect">Book Now</div>

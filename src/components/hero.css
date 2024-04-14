@@ -7,9 +7,9 @@
     gap: 35px;
 }
 .hero img {
-    height: 300px;
-    width: 280px;
-    border-radius: 50%;
+    height: 350px;
+    width: 300px;
+    border-radius: 10%;
     border: solid 2px white;
 }
 .hero h1 {

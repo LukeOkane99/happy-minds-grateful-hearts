@@ -5,7 +5,7 @@ import whitelogo from "../images/logo-white.png";
 
 const About = () => {
   return (
-    <div className="about">
+    <div id="about" className="about">
       <div className="about-title">
         <img src={whitelogo}></img>
         <h1>My Story</h1>
