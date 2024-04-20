@@ -2,9 +2,10 @@
     display: flex;
     align-items: center;
     flex-direction: column;
-    gap: 35px;
+    justify-content: center;
+    gap: 80px;
     color: white;
-    margin: 20px 170px;
+    margin: 80px 170px;
     background-color: #1C1475ff;
     border-radius: 30px;
     border: solid 2px white;
@@ -27,18 +28,38 @@
     font-size: 80px;
     font-weight: 600;
 }
-.classes-imgs {
-    display: flexbox;
-    margin-bottom: 100px;
-}
-.classes-imgs img {
-    height: 600px;
-    width: 600px;
-    margin: 50px;
-    border: solid 2px white;
-}
-.classes img:hover {
+.classes-format {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 20px;
+    padding: 60px;
+    border-radius: 10px;
+    border: 2px solid white;
+    transition: 0.4s;
     cursor: pointer;
+}
+.classes-format:hover {
     transform: scale(1.12);
     transition: 0.5s;
+}
+.classes-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 60px;
+    margin-bottom: 100px;
+}
+.classes-format h2 {
+    font-size: 38px;
+    font-weight: 600;
+}
+.classes-format p {
+    font-size: 24px;
+    line-height: 40px;
+    max-width: 300px;
+}
+.clsses-readmore {
+    display: flex;
+    gap: 20px;
+    align-items: center;
 }

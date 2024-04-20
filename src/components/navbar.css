@@ -1,47 +1,44 @@
 .navbar {
-   height: 200px;
-   color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 20px 170px;
+  color: white;
 }
-.logo img {
-    height: 150px;
-    width: 170px;
+.navbar img {
+  height: 150px;
+  width: 170px;
 }
-.logo img:hover {
-    cursor: pointer;
-    transform: scale(1.12);
-    transition: 0.5s;
+.navbar img:hover {
+  cursor: pointer;
+  transform: scale(1.12);
+  transition: 0.5s;
 }
 .nav-links {
-    display: flex;
+  display: flex;
+  align-items: center;
+  list-style: none;
+  gap: 60px;
+  font-size: 30px;
 }
-.navbar a {
-    margin-left: 20px;
-    font-size: 30px;
-    font-weight: 500;
-    color: white;
+.nav-links li:hover {
+  color: #1c1475ff;
+  cursor: pointer;
+  transform: scale(1.12);
+  transition: 0.5s;
 }
-.navbar a:hover {
-    color: #1C1475ff;
-    cursor: pointer;
-    transform: scale(1.12);
-    transition: 0.5s;
-}
-.navbar a:active {
-    color: #1C1475ff;
+.nav-links li:active {
+  color: #1c1475ff;
 }
 .nav-book-now {
-    display: flex;
-    align-items: center;
-    background-color: #1C1475ff;
-    color: white;
-    border: 2px solid white;
-    border-radius: 50px;
-    font-size: x-large;
-    padding: 10px 20px;
-    margin-left: 20px;
+  padding: 20px 40px;
+  background-color: #1c1475ff;
+  border: 2px solid white;
+  border-radius: 50px;
+  font-size: 25px;
 }
 .nav-book-now:hover {
-    cursor: pointer;
-    transform: scale(1.12);
-    transition: 0.5s;
+  cursor: pointer;
+  transform: scale(1.12);
+  transition: 0.5s;
 }

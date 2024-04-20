@@ -3,6 +3,7 @@ import Layout from "../components/layout";
 import Hero from "../components/hero";
 import About from "../components/about";
 import Classes from "../components/classes";
+import Contact from "../components/contact";
 
 const IndexPage = () => {
   return (
@@ -10,6 +11,7 @@ const IndexPage = () => {
       <Hero />
       <About />
       <Classes />
+      <Contact />
     </Layout>
   );
 };
