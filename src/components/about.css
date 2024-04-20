@@ -49,3 +49,32 @@
     font-size: 24px;
     font-weight: 600;
 }
+
+@media(max-width:768px) {
+    .about {
+        gap: 80px;
+        margin: 50px 70px;
+        align-items: center;
+    }
+    .about-title h1 {
+        font-size: 50px;
+        padding: 0;
+    }
+    .about-title img {
+        height: 50px;
+    }
+    .about-sections {
+        flex-direction: column;
+        align-items: center;
+    }
+    .about-sections img {
+        height: 300px;
+        width: 300px;
+        border: 2px solid white;
+        border-radius: 50%;
+    }
+    .about-sections p {
+        font-size: 25px;
+        line-height: 35px;
+    }
+}

@@ -63,3 +63,38 @@
     gap: 20px;
     align-items: center;
 }
+
+@media(max-width:768px) {
+    .classes {
+        align-items: center;
+        gap: 70px;
+        margin: 50px 70px;
+    }
+    .classes-title h1 {
+        font-size: 50px;
+        padding: 0;
+    }
+    .classes-title img {
+        height: 50px;
+    }
+    .classes-format {
+        gap: 20px;
+        padding: 32px;
+    }
+    .classes-format h2 {
+        font-size: 28px;
+    }
+    .classes-format p {
+        font-size: 18px;
+        line-height: 32px;
+        max-width: 200px;
+    }
+    .classes-container {
+        grid-template-columns: 1fr 1fr;
+        gap: 20px;
+    }
+    .classes-format:hover {
+        transform: scale(1.06);
+        transition: 0.5s;
+    }
+}

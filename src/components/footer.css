@@ -22,3 +22,20 @@
     transform: scale(1.12);
     transition: 0.5s;
 }
+
+@media(max-width:768px) {
+    .footer {
+        margin: 100px 70px;
+    }
+    .footer img {
+        height: 60px;
+        width: 300px;
+        margin-bottom: 20px;
+    }
+    .footer-menu {
+        display: none;
+    }
+    .footer h3 {
+        font-size: 20px;
+    }
+}

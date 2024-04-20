@@ -56,3 +56,37 @@
     transform: scale(1.12);
     transition: 0.5s;
 }
+
+@media(max-width:768px) {
+    .hero img {
+        margin-top: 50px;
+        margin-bottom: 20px;
+        width: 260px;
+        height: 260px;
+        border-radius: 50%;
+    }
+    .hero h1 {
+        width: 90%;
+        font-size: 50px;
+    }
+    .hero p {
+        width: 60%;
+        font-size: 28px;
+        line-height: 32px;
+        margin: 10px 0px;
+    }
+    .hero-action {
+        gap: 30px;
+        font-size: 25px;
+    }
+    .hero-connect {
+        padding: 20px 30px;
+        width: 280px;
+        text-align: center;
+    }
+    .hero-get-started {
+        padding: 20px 30px;
+        width: 280px;
+        text-align: center;
+    }
+}
